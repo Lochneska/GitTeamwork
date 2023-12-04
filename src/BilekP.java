@@ -1,6 +1,6 @@
 public class BilekP {
 
-    public void greet() {
-        System.out.println("PavelSlimBilek in PascalCase...");
+    public void greet(int numberParam) {
+        System.out.println("PavelSlimBilek in PascalCase..." + numberParam);
     }
 }
