@@ -1,5 +1,5 @@
 public class BariekR {
-    public void count(String ageFormat) {
-        System.out.println("My age is 28 " + ageFormat);
+    public void count() {
+        System.out.println("My age is 28 " + 1);
     }
 }
