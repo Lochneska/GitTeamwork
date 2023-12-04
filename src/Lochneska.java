@@ -1,11 +1,11 @@
 public class Lochneska {
 
     public static void main(String[] args) {
-        greet();
+        greet(1);
     }
 
-    public static void greet(){
-        System.out.println("Lochneska");
+    public static void greet(Integer bumbac){
+        System.out.println("Lochneska " + bumbac);
     }
 
 }
