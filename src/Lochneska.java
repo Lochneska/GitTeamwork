@@ -5,7 +5,7 @@ public class Lochneska {
     }
 
     public static void greet(Integer bumbac){
-        System.out.println("Kokoti!!!");
+        System.out.println("Greetings for the " + bumbac);
     }
 
 }
